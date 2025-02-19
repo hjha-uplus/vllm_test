@@ -1,0 +1,15 @@
+vllm==0.7.2
+py-zerox==0.0.7
+aiofiles>=23.0
+aiohttp>=3.9.5
+aioshutil>=1.5
+litellm>=1.44.15
+omegaconf
+pandas
+pdf2image>=1.17.0
+python-dotenv
+PyPDF2
+tqdm
+langchain-core==0.3.36
+langchain-openai==0.3.6
+openai==1.63.2
